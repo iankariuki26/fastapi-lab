@@ -96,6 +96,10 @@ def square(a: int):
 # def multiply(c: int, d: int):
 #     return {"product": c * d}
 
+#@app.get("/multiply/{c}/{d}")
+# def multiply(c: int, d: int):
+#     return {"product": c * d}
+
 # @app.get("/customer/{idx}")
 # def customer(idx: int):
 #         df = pd.read_csv("../customers.csv")
